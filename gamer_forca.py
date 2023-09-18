@@ -10,8 +10,8 @@ def limpa_tela():
 	if name == 'nt':
 		_=system('cls')
 	# Mac ou Linux
-else:
-	_=system('clear')
+#else:
+	#_=system('clear')
 
 # função
 def gamer():
